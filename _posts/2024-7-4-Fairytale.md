@@ -9,11 +9,8 @@ catalog: true
 tags:
     - 随笔
 ---
-<p>
 <br>
 <br>
-<br>
-</p>
 # Fairytale
 #####    —— 致第一次萌生的称为“爱”的感情
 
