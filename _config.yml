@@ -2,23 +2,23 @@
 title: DreamZ Blog
 SEOTitle: DreamZ Blog
 header-img: img/mfs.jpg
-email: 18349828158@163.com
+email: voiddreamz@163.com
 description: "给时光以生命，给岁月以文明"
-keyword: "Void DreamZ, Void DreamZ Blog, DreamZ, VoidDreamZ, 黄梦泽"
+keyword: "Void DreamZ, Void DreamZ Blog, DreamZ, VoidDreamZ, M1scast
 url: "https://voiddreamz.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/voiddreamz/voiddreamz.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "死非生之对立面，而是作为生的一部分永存"
+sidebar-about-description: "从沙尘暴中逃出的你已不再是跨入沙尘暴时的你，这就是所谓沙尘暴的含义。"
 sidebar-avatar: /img/voiddreamz.png   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:  7348834906    
+weibo_username:  7348834906
 zhihu_username:  voiddreamz
 github_username:  voiddreamz
 # facebook_username:
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 96633ccaa2f6d5309f20                          #生成的clientID
   clientSecret: ee45a59dcf7584ce4705f642ad45c622f563ebcc    #生成的clientSecret
   repo: bloggittalk    #仓库名称
@@ -74,12 +74,12 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: a0e3fdaf4aaebe29d89ee129260f694a
+#ba_track_id: a0e3fdaf4aaebe29d89ee129260f694a
 
 
 # Google Analytics
-ga_track_id: 'UA-160000376-1'            # Format: UA-xxxxxx-xx
-ga_domain: voiddreamz.ml               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-160000376-1'            # Format: UA-xxxxxx-xx
+#ga_domain: voiddreamz.ml               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -108,6 +108,9 @@ friends: [
     },{
         title: "John's Blog",
         href: "https://litebyte.coding.me/"
+    },{
+        title: "Hongyu Xu’s Blog",
+        href: "https://hongyuxu.vip"
     },{
         title: "Hongyu Xu’s Blog",
         href: "https://hongyuxu.vip"
